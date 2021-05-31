@@ -1,4 +1,4 @@
-FROM kubesphere/builder-base:v3.1.0
+FROM kubespheredev/builder-base:v3.1.0
 
 RUN rpm -Uvh https://packages.microsoft.com/config/centos/7/packages-microsoft-prod.rpm
 
